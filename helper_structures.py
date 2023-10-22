@@ -1,8 +1,3 @@
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Description: 'Helper' data structures
-
-
 class SLNode:
     def __init__(self, key: str, value: object) -> None:
         """
